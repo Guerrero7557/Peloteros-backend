@@ -17,7 +17,7 @@ public class UserServiceImp implements UserService {
 	@Override
 	public List<UserEntity> findAll() {
 		// TODO Auto-generated method stub
-		return null;
+		return UserRep.findAll();
 	}
 
 	@Override
