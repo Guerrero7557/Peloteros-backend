@@ -1,5 +1,6 @@
 
-![2](https://github.com/user-attachments/assets/8bc06b9b-3855-4c45-82f7-42cdd421df2f){width=400px}
+
+<!-- ![2](https://github.com/user-attachments/assets/8bc06b9b-3855-4c45-82f7-42cdd421df2f) -->
 <img src="https://github.com/user-attachments/assets/8bc06b9b-3855-4c45-82f7-42cdd421df2f" alt="Texto alternativo" width="400"/>
 
 
