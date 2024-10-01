@@ -1,5 +1,5 @@
-![alt text](<2 (1).png>)
-![2](https://github.com/user-attachments/assets/8bc06b9b-3855-4c45-82f7-42cdd421df2f){withd=70%}
+
+![2](https://github.com/user-attachments/assets/8bc06b9b-3855-4c45-82f7-42cdd421df2f){withd=50%}
 
 
 # Reserva Peloteros: Tu Cancha, Tu Momento 
